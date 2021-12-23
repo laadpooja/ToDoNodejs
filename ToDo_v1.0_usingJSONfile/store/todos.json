@@ -5,11 +5,11 @@
 }, {
   "id": 2,
   "name": "Walk the dog",
-  "complete": true
+  "complete": false
 }, {
   "id": 3,
   "name": "Go Shopping",
-  "complete": true
+  "complete": false
 }, {
   "id": 4,
   "complete": false,
