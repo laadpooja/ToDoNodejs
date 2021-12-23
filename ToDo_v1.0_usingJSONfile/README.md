@@ -7,7 +7,7 @@ Basic TODO app which stores data in local json file.
     4. Mark task as incomplete
 
 
-## Docker file also available to create docker image.
+## Dockerfile also available to create docker image.
 
 **Docker commands**
 
